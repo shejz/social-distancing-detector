@@ -22,5 +22,5 @@ Social distancing is arguably the most effective nonpharmaceutical way to preven
 
 ## **Detecting people in images and video streams with OpenCV**
 
-![](https://i.postimg.cc/sgSPdjNk/social-distance2.gif)
+![demo](https://i.postimg.cc/sgSPdjNk/social-distance2.gif)
 
