@@ -20,4 +20,8 @@ Social distancing is arguably the most effective nonpharmaceutical way to preven
 2. Consider applying a top-down transformation of your viewing angle. From there, you can apply the distance calculations to the top-down view of the pedestrians, leading to a better distance approximation.
 3. Improve the people detection process. OpenCV’s YOLO implementation is quite slow not because of the model itself but because of the additional post-processing required by the model. To further speedup the pipeline, consider utilizing a Single Shot Detector (SSD) running on your GPU — that will improve frame throughput rate considerably.
 
+## **Detecting people in images and video streams**
 
+Using the YOLO object detector to detect people in our video stream. Where the red boxes represent people who are too close to one another.
+
+![](https://i.postimg.cc/Px68NKVs/sc.jpg)
