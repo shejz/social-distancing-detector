@@ -1,1 +1,1 @@
-# social-distancing-detector
+# **Social Distance Detection**    [![Nbviewer](https://github.com/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/shejz/social-distancing-detector/blob/main/Social_Distancing_Detector.ipynb)
