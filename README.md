@@ -21,4 +21,5 @@ Social distancing is arguably the most effective nonpharmaceutical way to preven
 3. Improve the people detection process. OpenCV’s YOLO implementation is quite slow not because of the model itself but because of the additional post-processing required by the model. To further speedup the pipeline, consider utilizing a Single Shot Detector (SSD) running on your GPU — that will improve frame throughput rate considerably.
 
 ## **Detecting people in images and video streams with OpenCV**
+![](https://i.postimg.cc/sgSPdjNk/social-distance2.gif)
 
