@@ -1,4 +1,4 @@
-# **OpenCV Social Distancing Detector**  
+# *Social Distancing Detector**  
 
 Social distancing is crucial to preventing the spread of disease. Using computer vision technology based on OpenCV and YOLO-based deep learning, we are able to estimate the social distance of people in video streams.
 
