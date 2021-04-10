@@ -4,7 +4,7 @@ Social distancing is crucial to preventing the spread of disease. Using computer
 
 Social distancing is arguably the most effective nonpharmaceutical way to prevent the spread of a disease — by definition, if people are not close together, they cannot spread germs.
 
-**NOTEBOOK**:  [![Nbviewer](https://github.com/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg)](https://github.com/shejz/social-distancing-detector/blob/main/Social_Distancing_Detector.ipynb)
+**NOTEBOOK**:  [![Nbviewer](https://github.com/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/shejz/social-distancing-detector/blob/main/SocialDistancing_Detector.ipynb)
 
 ## **The steps involved in an OpenCV-based social distancing application:**:
 1. Using the YOLO object detector to detect people in the frame from your video file or directly from your webcam.
