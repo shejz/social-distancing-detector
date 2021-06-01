@@ -24,4 +24,4 @@ Social distancing is arguably the most effective nonpharmaceutical way to preven
 
 Using the YOLO object detector to detect people in our video stream. Where the red boxes represent people who are too close to one another.
 
-![](https://i.postimg.cc/Px68NKVs/sc.jpg)
+![](https://github.com/shejz/social-distancing-detector/blob/main/SocialDistancing_Detector.ipynb)
